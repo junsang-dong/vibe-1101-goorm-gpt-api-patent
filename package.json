@@ -1,0 +1,24 @@
+{
+  "name": "ipc-cpc-finder",
+  "version": "1.0.0",
+  "description": "GPT API 기반 특허 출원코드(IPC/CPC) 자동 탐색 웹앱",
+  "main": "index.html",
+  "scripts": {
+    "start": "vercel dev",
+    "build": "echo 'No build step required'",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "patent",
+    "ipc",
+    "cpc",
+    "gpt",
+    "openai"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vercel": "^33.0.0"
+  }
+}
+
